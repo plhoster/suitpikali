@@ -22,7 +22,6 @@ The Raspberry pi uses a Kali Linux compatible Wifi extender that is capable of s
 
 ![image](img/IMG_3220.jpg)
 
-Powering can be done by a normal Power supply, however it can also be used on the way since it features a Powerbank which allows it to run for about 4-5 hours without a Power supply, thanks to the Power efficiency of the Raspberry pi.<br>
-Done!
+Powering can be done by a normal Power supply, however it can also be used on the way since it features a Powerbank which allows it to run for about 4-5 hours without a Power supply, thanks to the Power efficiency of the Raspberry pi.
 
 ![image](img/CUXX3435.JPG)
